@@ -1,8 +1,8 @@
 # dataCommunication
 PPT and Source code of data communication mentoring
 
-Week 1 - WireShark in mobile
-Week 2 - Mobile Packet Capture
+Week 1 - WireShark in mobile \n
+Week 2 - Mobile Packet Capture \n
 Week 3 - Data Over Sound
 Week 4 - UDP Socket
 Week 5 - File Transfer
